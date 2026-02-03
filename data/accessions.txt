@@ -1,0 +1,27 @@
+GCF_000005845.2; Escherichia coli K-12 MG1655
+GCF_000006945.2; Salmonella typhimurium LT2
+GCF_000164865.1; Enterobacter lignolyticus
+GCF_000013825.1; Yersinia pestis Antiqua
+GCF_000006825.1; Pasteurella multocida Pm70
+GCF_000014805.1; Aeromonas hydrophila ATCC 7966
+GCF_027924785.1; Vibrio nigripulchritudo
+GCF_000148645.1; Ferrimonas balearica
+GCF_000146165.2; Shewanella oneidensis MR-1
+GCF_000012325.1; Colwellia psychrerythraea
+GCF_000015285.1; Psychromonas ingrahamii
+GCF_000008465.1; Idiomarina loihiensis L2TR
+GCF_000020585.3; Alteromonas macleodii Deep ecotype
+GCF_000014225.1; Pseudoalteromonas atlantica T6c
+GCF_004786015.1; Thiomicrospira crunogena
+GCF_000017105.1; Coxiella burnetii Dugway
+GCF_019930685.1; Legionella longbeachae
+GCF_000014625.1; Pseudomonas aeruginosa PA7
+GCF_000012305.1; Psychrobacter arcticus
+GCF_034259125.1; Halomonas elongata
+GCF_000192865.1; Marinomonas mediterranea
+GCF_000012985.1; Hahella chejuensis
+GCF_000300005.1; Alcanivorax dieselolei
+GCF_000233915.3; Pseudoxanthomonas spadix BD-a59
+GCF_000007165.1; Xanthomonas axonopodis pv. citri 306
+GCF_000321415.2; Thioalkalivibrio nitratireducens DSM 14787
+GCF_000024765.1; Halothiobacillus neapolitanus
